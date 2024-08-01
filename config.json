@@ -2,7 +2,6 @@
     "title":"遠山蔚",
     "subTitle":"这里是蔚的个人存货地点（试运行版本）。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
     "startSite":"08/01/2024",
     "filingNum":"无",
     "onePageListNum":24,
@@ -20,5 +19,6 @@
     "showPostSource":1,
     "rssSplit":"sentence",
     "bottomText":"转载请注明出处",
-    "needComment":1
+    "needComment":1,
+    "GMEEK_VERSION":"last"
 }
